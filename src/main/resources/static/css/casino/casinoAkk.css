@@ -1,0 +1,22 @@
+html, body{
+
+    background-size: 100%;
+    background: radial-gradient(#214015, #152110);
+    /*background: url(background.jpg) ;*/
+}
+#intro{
+    text-align: center;
+}
+#data{
+    margin-left: 250px;
+    margin-right: 250px;
+    height:300px;
+
+}
+.inp{
+    width: 500px;
+    background: radial-gradient(#088A29, #152110);
+    border: 23px;
+    border-color: #088A29;
+    height: 45px;
+}

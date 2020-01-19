@@ -1,0 +1,27 @@
+html, body{
+
+    background-size: 100%;
+    background: radial-gradient(#214015, #152110);
+    /*background: url(background.jpg) ;*/
+}
+table{
+    margin: auto;
+    width: 200px;
+
+
+
+}
+#intro{
+    text-align: center;
+}
+th{
+    width:100px;
+}
+h5{
+    text-transform: uppercase;
+    color: coral
+}
+#akk{
+    margin-left: 88%;
+
+}
